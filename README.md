@@ -1,13 +1,16 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Renfred AI 👋</h1>
+<!-- ===================== HERO ===================== -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Renfred+AI;CS+Student+at+University+of+Toronto;Machine+Learning+%7C+Deep+Learning+%7C+Systems;Building+AI-powered+tools+for+real-world+impact" />
+</h1>
 
 <h3 align="center">
-CS @ University of Toronto • ML / Deep Learning • Systems Builder
+CS @ University of Toronto • Machine Learning • Systems • AI Engineering
 </h3>
 
 <p align="center">
   <a href="https://github.com/renfrrd-ai">
-    <img src="https://komarev.com/ghpvc/?username=renfrrd-ai&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=renfrrd-ai&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="mailto:alongerenfred@gmail.com">
     <img src="https://img.shields.io/badge/email-contact-blue?style=flat&logo=gmail" />
@@ -19,49 +22,78 @@ CS @ University of Toronto • ML / Deep Learning • Systems Builder
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
+
 ## 🚀 About Me
 
 - 🎓 CS student at the University of Toronto (Lester B. Pearson Scholar)
-- 🧠 Interested in Machine Learning, Deep Learning, and intelligent systems
-- ⚙️ Building tools that make information and workflows more intelligent
-- 🧩 Currently exploring system design for AI-native applications
-- 🏗️ Working on ideas like an “internet command center” for smarter navigation of the web
+- 🧠 Focused on Machine Learning, Deep Learning, and intelligent systems
+- ⚙️ Building tools that improve how people interact with information
+- 🌐 Interested in system design for AI-native applications
+- 🏗️ Working on ideas like an AI-powered “internet command center”
 
 ---
+
+<!-- ===================== WHAT I BUILD ===================== -->
 
 ## 🧠 What I’m Building
 
-- AI-powered tools for smarter digital workflows
-- Systems that connect search, productivity, and automation
-- Experiments in ML-driven personalization and interfaces
+- AI systems for search, productivity, and automation
+- Full-stack applications with ML integration
+- Smarter interfaces for navigating digital information
+- Experiments in personalization and intelligent workflows
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
 **Languages**
-`Python` `TypeScript` `Java` `C++` `SQL`
+Python • TypeScript • Java • C++ • SQL
 
 **AI / ML**
-`PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas`
+PyTorch • TensorFlow • scikit-learn • NumPy • Pandas
 
 **Backend / Systems**
-`Node.js` `Express` `Redis` `PostgreSQL` `MongoDB`
+Node.js • Express • Redis • PostgreSQL • MongoDB
 
 **Tools**
-`Git` `Docker` `Linux` `VS Code` `Vercel` `AWS`
+Git • Docker • Linux • VS Code • AWS • Vercel
 
 ---
 
-## 📌 Featured Focus Areas
+<!-- ===================== PROJECTS ===================== -->
 
-- Deep Learning & Neural Networks
-- System Design for AI Applications
-- Full-stack AI tools
-- Information retrieval systems
-- Productivity / workflow automation systems
+## 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/renfrrd-ai/your-project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renfrrd-ai&repo=your-project-1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/renfrrd-ai/your-project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renfrrd-ai&repo=your-project-2&theme=tokyonight" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/renfrrd-ai/your-project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renfrrd-ai&repo=your-project-3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/renfrrd-ai/your-project-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=renfrrd-ai&repo=your-project-4&theme=tokyonight" />
+</a>
+
+</p>
 
 ---
+
+<!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Stats
 
@@ -72,11 +104,23 @@ CS @ University of Toronto • ML / Deep Learning • Systems Builder
 
 ---
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renfrrd-ai/renfrrd-ai/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+
 ## 📫 Connect With Me
 
-- Email: **alongerenfred@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/renfred-ai/
 - GitHub: https://github.com/renfrrd-ai
+- LinkedIn: https://www.linkedin.com/in/renfred-ai/
+- Email: alongerenfred@gmail.com
 
 ---
 
