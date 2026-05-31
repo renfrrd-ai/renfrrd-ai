@@ -64,8 +64,7 @@ Git • Docker • Linux • VS Code • AWS • Vercel
 ---
 
 <!-- ===================== PROJECTS ===================== -->
-
-## 📌 Featured Projects
+<!--## 📌 Featured Projects
 
 <p align="center">
 
@@ -92,6 +91,7 @@ Git • Docker • Linux • VS Code • AWS • Vercel
 </p>
 
 ---
+-->
 
 <!-- ===================== STATS ===================== -->
 
