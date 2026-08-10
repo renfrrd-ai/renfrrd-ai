@@ -47,7 +47,7 @@
 
 ## About Me
 
-I'm Renfred, a Computer Science student at the University of Toronto and a Lester B. Pearson International Scholar.
+I'm Renfred, a Computer Science student at the University of Toronto, minoring in Mathematics and Business, and a Lester B. Pearson International Scholar.
 
 I'm interested in building software, machine learning, and using technology to solve problems that actually matter. I enjoy working across the stack — from designing how a product should work, to writing the backend and frontend, to deploying it and seeing people use it.
 
@@ -111,7 +111,7 @@ I care about building things that are useful, shipping them, and continuously ge
 | Deep Learning | Learning | Exploring modern deep learning concepts and architectures |
 | NLP | Learning | Interested in language models, text processing, and AI-powered applications |
 | AI Systems | Building | Experimenting with AI applications that combine models with real products and user workflows |
-| Mathematics | Strong Foundation | Studying Computer Science and Mathematics at UofT, with a particular interest in mathematical foundations for CS and AI |
+| Mathematics | Strong Foundation | Studying Computer Science with Mathematics and Business minors at UofT, with a particular interest in mathematical foundations for CS and AI |
 
 </div>
 
@@ -120,12 +120,12 @@ I care about building things that are useful, shipping them, and continuously ge
 ## Education
 
 **University of Toronto**
-B.Sc. Computer Science · *2025 – 2030*
+B.Sc. Computer Science, Minors in Mathematics & Business · *2025 – 2030*
 
 - Lester B. Pearson International Scholar
 - Dean's List Scholar
 - CGPA 4.0
-- Focus areas: Computer Science, Mathematics, AI/ML
+- Focus areas: Computer Science, Mathematics, Business, AI/ML
 
 ---
 
