@@ -237,14 +237,27 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 | Recognition | Details |
 |:--|:--|
-| Gold Medalist, Nigerian National Economics Olympiad | 2023, 2024 |
-| National Representative, International Economics Olympiad | 2023 |
-| Top in Nigeria, IGCSE Physics & ICT | 2024 |
-| Second Runner-Up, Interswitch SPAK National Science Competition | 2024 |
-| Best Student, Nigerian National Physics Olympiad | 2024 |
-| Gold Medalist, Online International Mathematics Challenge | 2023 |
-| Valedictorian, The Ambassadors College | 2024 |
-| Admitted to Minerva University, 1.9% acceptance rate and #1 Most Innovative University (WURI) | 2025 |
+| **Lester B. Pearson International Scholar** | University of Toronto, 2025 cohort |
+| **2nd Place — Teacher's Category, Cowbellpedia TV Quiz Show** | 2025 |
+| **Valedictorian** | Apt Scholars Universal College, 2024 |
+| **Leadership Award of Excellence** | Apt Scholars Universal College, 2024 |
+| **Best Student Tutor Award** | Class of 2024 |
+| **Gold Award** | Apt Scholars Universal College, 2024 |
+| **2nd Place — Sigma UI Roseline Etuokwu Quiz Competition** | 2024 |
+| **Winner — ASC Science Competition** | Led a team of three to win the 2023 competition |
+| **Best Team — Mathematics is Simple Competition** | Led a team of five students to become the best team, 2023 |
+| **State Winner — Mathematical Association of Nigeria** | Ogun State, Senior Category, 2023; advanced to the national competition |
+| **Top 500 — Interswitch SPAK 5.0** | 2023 |
+| **2nd Highest Scoring Student — MathContest Nigeria** | Ogun State qualifier; scored 96% |
+| **Top 66 — Cowbellpedia Mathematics Competition** | 2023 |
+| **World Mathematics Tournament** | Scored 84% in qualifying examination, outperforming 95.2% of participants |
+| **Top in National JETS Competition — First Round** | 2022 |
+| **6th Overall — Mathematics is Simple Competition** | 2022; also recognized as Most Outstanding SS1 Student |
+| **State Winner — Cruxlearning Mathematics Contest** | Ogun State, 2021; scored 100% in qualifying examination |
+| **2nd Quiz Representative — Mathematical Association of Nigeria** | Lagos State, Junior Category, 2021 |
+| **3rd Place — Mathematical Association of Nigeria** | Ogun State, Junior Category, 2020 |
+| **Winner — The Ultimate Mathematics Ambassador** | 2018 |
+| **2nd — Ogun State, 16th Annual National Mathematics Competition** | 2018 |
 
 </div>
 
