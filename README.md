@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/University%20of%20Toronto-CS%20%26%20Business-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/University%20of%20Toronto-CS%20%26%20Mathematics-1D4ED8?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Class%20of-2030-3B82F6?style=for-the-badge" />
 
 <br/>
@@ -23,7 +23,7 @@
 <a href="https://www.renfred.dev/">
   <img src="https://img.shields.io/badge/Portfolio-renfred.dev-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/renfred-ai">
+<a href="https://www.linkedin.com/in/trailblaizer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:alongerenfred@gmail.com">
@@ -47,7 +47,7 @@
 
 ## About Me
 
-I'm Renfred, a Computer Science student at the University of Toronto Mississauga and a Lester B. Pearson International Scholar.
+I'm Renfred, a Computer Science student at the University of Toronto and a Lester B. Pearson International Scholar.
 
 I'm interested in building software, machine learning, and using technology to solve problems that actually matter. I enjoy working across the stack — from designing how a product should work, to writing the backend and frontend, to deploying it and seeing people use it.
 
@@ -76,16 +76,26 @@ I care about building things that are useful, shipping them, and continuously ge
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,redis&theme=dark" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vercel,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vercel,railway&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Render-3B82F6?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_R2-2563EB?style=flat-square&logo=cloudflare&logoColor=white" />
+
+### ML & Other Tools
+<img src="https://img.shields.io/badge/Scikit--learn-3B82F6?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2563EB?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NextAuth.js-1D4ED8?style=flat-square" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-60A5FA?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-3B82F6?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
@@ -109,7 +119,7 @@ I care about building things that are useful, shipping them, and continuously ge
 
 ## Education
 
-**University of Toronto Mississauga**
+**University of Toronto**
 B.Sc. Computer Science · *2025 – 2030*
 
 - Lester B. Pearson International Scholar
@@ -122,19 +132,64 @@ B.Sc. Computer Science · *2025 – 2030*
 ## Featured Projects
 
 <details open>
-<summary><b>Minerva Connect (Student Work-Study Platform)</b></summary>
+<summary><b>ThereIsASiteForThat — Curated Site Discovery Directory (Live Product)</b></summary>
 <br/>
 
-A platform I'm building to make it easier for Minerva students to find and apply for work-study roles on campus.
+A curated directory that answers "what's the best site for X" with one good recommendation instead of fifty search results — compress a PDF, remove a background, build a resume. Includes category browsing, themed collections, editor picks, and community submissions, built on Next.js with NextAuth authentication, a Drizzle/PostgreSQL backend, and OpenAI-assisted search.
+
+**Technologies:** Next.js · React · NextAuth.js · Drizzle ORM · PostgreSQL · OpenAI API · Tailwind CSS
+
+**Links:** [Website](https://thereisasiteforthat.com/) · [GitHub](https://github.com/renfrrd-ai/thereIsASiteForThat)
+
+</details>
+
+<details>
+<summary><b>Examina — Full-Stack Assessment Platform (Flagship Project)</b></summary>
+<br/>
+
+A scalable exam system supporting test creation, auto-grading, and analytics dashboards with role-based access control. Designed the PostgreSQL schema and REST APIs for authentication (JWT), user roles, and assessment workflows, with a Redis caching layer to cut backend response latency and Docker-based containerization for isolated frontend/backend deployment.
+
+**Technologies:** React.js · Node.js · PostgreSQL · Redis · Docker
+
+**Links:** [GitHub](https://github.com/renfrrd-ai/Examina-old)
+
+</details>
+
+<details>
+<summary><b>Is This a Scam? — ML-Based Fraud Detection System (Machine Learning)</b></summary>
+<br/>
+
+An NLP-based classification pipeline using TF-IDF and supervised learning to detect phishing content. Built a real-time inference API with confidence scoring for message/email risk classification, plus a user-facing dashboard for scam analysis and explanations. The ML pipeline is modularized for retraining, evaluation, and backend integration.
+
+**Technologies:** Python · Scikit-learn · NLP · Node.js · React.js
+
+**Links:** [GitHub](https://github.com/renfrrd-ai/IsThisAScam)
+
+</details>
+
+<details>
+<summary><b>DejaWHO — Cognitive Analytics Platform (Machine Learning)</b></summary>
+<br/>
+
+A gamified cognitive assessment platform tracking memory, reasoning, and behavioral performance trends over time. Integrated ML-based scoring models for personalized cognitive performance analysis, backed by a secure data architecture for longitudinal user session data.
+
+**Technologies:** React.js · Node.js · PostgreSQL · Machine Learning
+
+**Links:** [GitHub](https://github.com/renfrrd-ai/DejaWHO)
+
+</details>
+
+<details>
+<summary><b>Navix — Browser Command Hub</b></summary>
+<br/>
+
+A browser-based command hub designed to make frequently used actions and resources accessible through a fast command interface.
 
 | Category | Details |
 |:--|:--|
-| Stack | React, Supabase, JavaScript, HTML/CSS |
+| Stack | JavaScript / Web technologies |
 | Status | In development |
-| What it does | Lets students browse and apply for work-study positions through an authenticated interface |
-| Repository | [github.com/renfrrd-ai/minerva-workstudy](https://github.com/renfrrd-ai/minerva-workstudy) |
-
-I'm using this project to get more comfortable with Supabase for auth and React on the frontend, while building something I'd actually want to use myself.
+| What it does | Provides a command-driven new-tab experience with quick actions and shortcuts |
 
 </details>
 
@@ -142,42 +197,37 @@ I'm using this project to get more comfortable with Supabase for auth and React 
 
 ## Experience
 
-### AI Accelerator Institute
-**Member** · *Jun 2024 – Present*
+### Full-Stack Software Engineer
+**SMATHS-Kids Initiative** · *Ogun State, Nigeria* · *Nov. 2021 – Jul. 2025*
 
-A mentorship-driven AI research community focused on applied learning and emerging AI trends.
+- Engineered and maintained a production learning platform (smathskids.com) serving 700+ active students
+- Designed RESTful backend services and admin dashboards for grading, analytics, and student tracking workflows
+- Implemented automated reporting and data pipelines, reducing manual administrative workload by 40%
+- Improved system reliability and scalability during user growth through backend refactoring and workflow optimization
 
-- Did independent and group research on emerging AI trends through mentorship-led programs
-- Turned technical findings into discussion-ready insights for group sessions and applied projects
-- Worked with peers on AI-focused projects, taking research and turning it into something usable
-
-`AI Research` `Technical Synthesis` `Collaboration` `Applied AI`
-
-<br/>
-
-### Artificial Intelligence and Robotics Lab (AIRLAB), University of Lagos
-**Research Intern** · *Mar 2023 – Apr 2023*
-
-A short research internship focused on NLP and applied ML.
-
-- Analyzed text datasets and built a spam classification system using Python and NLTK
-- Tested model performance and iterated on feature selection
-- Improved classification accuracy by 30% through testing and tweaking
-
-`Python` `NLTK` `NLP` `Machine Learning` `Data Analysis`
+`Node.js` `REST APIs` `PostgreSQL` `Backend Architecture`
 
 <br/>
 
-### Rise Above Autism
-**Nigerian Chapter Head & Social Media Manager** · *Aug 2024 – Present*
+### Software Engineer & Automation Developer
+**Apt Scholars Universal College** · *Ogun State, Nigeria* · *Jan. 2023 – Jul. 2025*
 
-A nonprofit supporting neurodivergent individuals, with outreach across Nigeria.
+- Built Python-based automation systems for quiz generation, grading pipelines, and student performance analytics
+- Developed data processing workflows using Pandas and Excel automation, reducing grading turnaround time by 50%
+- Improved instructional efficiency by replacing manual workflows with reusable scripting tools for educators
+- Recognized as 2nd Best Teacher (Cowbellpedia STEM 2025); mentored students to national competition finals
 
-- Led national outreach by analyzing engagement patterns and coordinating content strategy, grew audience engagement by 40%
-- Coordinated contributors to keep messaging consistent and aligned with the org's goals
-- Built and manage a resource hub for neurodivergent individuals looking to get into AI
+`Python` `Pandas` `Automation` `Data Processing`
 
-`Leadership` `Content Strategy` `Analytics` `Community Management`
+<br/>
+
+### Data Management Intern
+**Smile Pride Dental Clinic** · *Ogun State, Nigeria* · *Aug. 2021 – Dec. 2022*
+
+- Digitized and maintained confidential patient records with high accuracy across structured medical datasets
+- Cleaned and corrected inconsistencies in legacy databases, improving data reliability for reporting workflows
+
+`Data Management` `Data Cleaning` `Reporting`
 
 ---
 
@@ -327,10 +377,10 @@ I'm always interested in meeting people who are building interesting things, wor
 
 <div align="center">
 
-<a href="alongerenfred@gmail.com">
+<a href="mailto:alongerenfred@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email%20Me-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/renfred-ai">
+<a href="https://www.linkedin.com/in/trailblaizer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/renfrrd-ai">
