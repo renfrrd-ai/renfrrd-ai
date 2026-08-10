@@ -324,7 +324,7 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=renfrrd-ai&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-trophies.vercel.app/?username=renfrrd-ai&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
