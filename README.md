@@ -59,7 +59,8 @@ Outside of tech, I casually play chess and I'm always trying to learn something 
 
 I care about building things that are useful, shipping them, and continuously getting better.
 
-### Open To
+<details>
+<summary><b>🟢 Open To</b> (click to expand)</summary>
 
 ```
 - Software engineering internships
@@ -69,9 +70,12 @@ I care about building things that are useful, shipping them, and continuously ge
 - Interesting startup and product-building opportunities
 ```
 
+</details>
+
 ---
 
-## Tech Stack
+<details>
+<summary><h2 style="display:inline">🛠️ Tech Stack</h2> (click to expand)</summary>
 
 <div align="center">
 
@@ -99,9 +103,12 @@ I care about building things that are useful, shipping them, and continuously ge
 
 </div>
 
+</details>
+
 ---
 
-## AI / ML
+<details>
+<summary><h2 style="display:inline">🤖 AI / ML</h2> (click to expand)</summary>
 
 <div align="center">
 
@@ -114,6 +121,8 @@ I care about building things that are useful, shipping them, and continuously ge
 | Mathematics | Strong Foundation | Studying Computer Science with Mathematics and Business minors at UofT, with a particular interest in mathematical foundations for CS and AI |
 
 </div>
+
+</details>
 
 ---
 
@@ -183,8 +192,6 @@ A gamified cognitive assessment platform tracking memory, reasoning, and behavio
 <summary><b>Navix — Browser Command Hub</b></summary>
 <br/>
 
-A browser-based command hub designed to make frequently used actions and resources accessible through a fast command interface.
-
 | Category | Details |
 |:--|:--|
 | Stack | JavaScript / Web technologies |
@@ -195,7 +202,8 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 ---
 
-## Experience
+<details>
+<summary><h2 style="display:inline">💼 Experience</h2> (click to expand)</summary>
 
 ### Full-Stack Software Engineer
 **SMATHS-Kids Initiative** · *Ogun State, Nigeria* · *Nov. 2021 – Jul. 2025*
@@ -229,9 +237,12 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 `Data Management` `Data Cleaning` `Reporting`
 
+</details>
+
 ---
 
-## Achievements
+<details>
+<summary><h2 style="display:inline">🏆 Achievements</h2> (click to expand — 19 entries)</summary>
 
 <div align="center">
 
@@ -261,9 +272,12 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
+</details>
+
 ---
 
-## Certifications
+<details>
+<summary><h2 style="display:inline">📜 Certifications</h2> (click to expand)</summary>
 
 <div align="center">
 
@@ -282,9 +296,12 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
+</details>
+
 ---
 
-## Coding Profiles
+<details>
+<summary><h2 style="display:inline">👨‍💻 Coding Profiles</h2> (click to expand)</summary>
 
 <div align="center">
 
@@ -303,9 +320,12 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
+</details>
+
 ---
 
-## GitHub Analytics
+<details>
+<summary><h2 style="display:inline">📊 GitHub Analytics</h2> (click to expand)</summary>
 
 <div align="center">
 
@@ -318,9 +338,7 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
----
-
-## GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 
@@ -328,9 +346,7 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
----
-
-## Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
@@ -338,9 +354,7 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
----
-
-## Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -348,9 +362,12 @@ A browser-based command hub designed to make frequently used actions and resourc
 
 </div>
 
+</details>
+
 ---
 
-## Current Focus
+<details>
+<summary><h2 style="display:inline">🎯 Current Focus</h2> (click to expand)</summary>
 
 ```yaml
 Learning:
@@ -381,6 +398,8 @@ Open To:
   - Hackathons
   - Interesting technical collaborations
 ```
+
+</details>
 
 ---
 
