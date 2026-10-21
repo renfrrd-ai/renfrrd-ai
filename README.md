@@ -2,7 +2,7 @@
 
 # Hey, I'm Renfred 👋
 
-**CS @ University of Toronto** · Math minor · Lester B. Pearson Scholar 🎓
+**Computer Science @ University of Toronto** · Math minor · Lester B. Pearson Scholar 🎓
 
 <a href="https://www.renfred.dev/"><img src="https://img.shields.io/badge/renfred.dev-3B82F6?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/renfred-ai"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" /></a>
